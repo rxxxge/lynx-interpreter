@@ -1,0 +1,9 @@
+(( )){} // grouping stuff
+!*+-/=<> <= == // operators
+"this is string" // strings
+
+print("Hello World!") // print Hello world!
+
+while (true)
+	print(3.14)
+	print(3.)
